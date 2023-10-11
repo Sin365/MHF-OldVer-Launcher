@@ -16,15 +16,15 @@ Very convenient to use
 
 For example,  eg. in MHF-OldVer-Launcher.cfg:
 
-> Server1Name=ServerName1
-> Server1IP=1.2.3.4
-> Server1Port=53312
-> Server2Name=OtherServerName1
-> Server2IP=1.2.3.4
-> Server2Port=53312
-> Server3Name=OtherServerName2
-> Server3IP=1.2.3.4
-> Server3Port=53312
+	Server1Name=ServerName1
+	Server1IP=1.2.3.4
+	Server1Port=53312
+	Server2Name=OtherServerName1
+	Server2IP=1.2.3.4
+	Server2Port=53312
+	Server3Name=OtherServerName2
+	Server3IP=1.2.3.4
+	Server3Port=53312
 
 **3. Start [MHF OldVer Launcher. exe]**
 
