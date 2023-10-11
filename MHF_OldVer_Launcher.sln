@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AxibugLauncherInject", "AxibugInject\AxibugLauncherInject.csproj", "{95E6AA00-47C3-4B1F-9F18-21164573D89C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHF-OldVer-Launcher", "MHF-OldVer-Launcher\MHF-OldVer-Launcher.csproj", "{613CAED0-C4AE-49A9-BB24-B22B2B7A9E8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95E6AA00-47C3-4B1F-9F18-21164573D89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E6AA00-47C3-4B1F-9F18-21164573D89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E6AA00-47C3-4B1F-9F18-21164573D89C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{95E6AA00-47C3-4B1F-9F18-21164573D89C}.Debug|x86.Build.0 = Debug|Any CPU
+		{95E6AA00-47C3-4B1F-9F18-21164573D89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E6AA00-47C3-4B1F-9F18-21164573D89C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95E6AA00-47C3-4B1F-9F18-21164573D89C}.Release|x86.ActiveCfg = Release|Any CPU
+		{95E6AA00-47C3-4B1F-9F18-21164573D89C}.Release|x86.Build.0 = Release|Any CPU
+		{613CAED0-C4AE-49A9-BB24-B22B2B7A9E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{613CAED0-C4AE-49A9-BB24-B22B2B7A9E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{613CAED0-C4AE-49A9-BB24-B22B2B7A9E8F}.Debug|x86.ActiveCfg = Debug|x86
+		{613CAED0-C4AE-49A9-BB24-B22B2B7A9E8F}.Debug|x86.Build.0 = Debug|x86
+		{613CAED0-C4AE-49A9-BB24-B22B2B7A9E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{613CAED0-C4AE-49A9-BB24-B22B2B7A9E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{613CAED0-C4AE-49A9-BB24-B22B2B7A9E8F}.Release|x86.ActiveCfg = Release|x86
+		{613CAED0-C4AE-49A9-BB24-B22B2B7A9E8F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0F75DFE-5A5A-4A66-B568-9D1E519116B6}
+	EndGlobalSection
+EndGlobal
